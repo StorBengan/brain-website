@@ -92,4 +92,5 @@ window.addEventListener('resize', () => {
     camera.aspect = window.innerWidth/window.innerHeight;
     camera.updateProjectionMatrix();
     renderer.setSize(window.innerWidth, window.innerHeight);
+const API_KEY = "AIzaSyAp41Tk20z2_IyNMOU4UoMwZUE-dTBNtUQ";
 });
